@@ -1,0 +1,4 @@
+User-agent:*
+Disallow: 
+
+Sitemap:testmtc.000webhost.com/sitemap.xml
